@@ -1,7 +1,6 @@
 package br.com.libdolf.pkmresgistryservice.controllers;
 
 import br.com.libdolf.pkmresgistryservice.controllers.dtos.PokemonDto;
-import br.com.libdolf.pkmresgistryservice.controllers.dtos.TrainerDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
